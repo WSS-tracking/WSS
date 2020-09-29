@@ -14,5 +14,6 @@ Position: [do /getpos]
 Skin ID: [skins to be added]
 Colorcode: [hex or rgb]
 Weapons: [squads: 3.1,23.1000,17.10] [gangs: 22.100] [civilian groups: 2 / 5 / 6 / 7 / 10 / 11/ 12 / 15]
+Description (for spawnscreen:
 
 *groups can ignore this one.
